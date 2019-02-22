@@ -1,0 +1,36 @@
+D:\Projects\ewrap\ewrapSoftware\bin\Debug\ewrapSoftware.exe.config
+D:\Projects\ewrap\ewrapSoftware\bin\Debug\ewrapSoftware.exe
+D:\Projects\ewrap\ewrapSoftware\bin\Debug\ewrapSoftware.pdb
+D:\Projects\ewrap\ewrapSoftware\obj\Debug\ewrapSoftware.FrameworkForm.resources
+D:\Projects\ewrap\ewrapSoftware\obj\Debug\ewrapSoftware.Properties.Resources.resources
+D:\Projects\ewrap\ewrapSoftware\obj\Debug\ewrapSoftware.csproj.GenerateResource.Cache
+D:\Projects\ewrap\ewrapSoftware\obj\Debug\ewrapSoftware.exe
+D:\Projects\ewrap\ewrapSoftware\obj\Debug\ewrapSoftware.pdb
+D:\Projects\ewrap\ewrapSoftware\obj\Debug\ewrapSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\bin\Debug\ewrapSoftware.exe.config
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.exe
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.pdb
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\bin\Debug\ewrapSoftware.exe
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\bin\Debug\ewrapSoftware.pdb
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.csprojResolveAssemblyReference.cache
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.FrameworkForm.resources
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.Properties.Resources.resources
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.csproj.GenerateResource.Cache
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\bin\Debug\ewrapSoftware.exe.manifest
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\bin\Debug\ewrapSoftware.application
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.TrustInfo.xml
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.exe.manifest
+C:\Users\Milad\Desktop\soft 1.5\ewrapSoftware\obj\Debug\ewrapSoftware.application
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\bin\Debug\ewrapSoftware.exe.config
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\bin\Debug\ewrapSoftware.exe.manifest
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\bin\Debug\ewrapSoftware.application
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\bin\Debug\ewrapSoftware.exe
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\bin\Debug\ewrapSoftware.pdb
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.FrameworkForm.resources
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.Properties.Resources.resources
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.csproj.GenerateResource.Cache
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.TrustInfo.xml
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.exe.manifest
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.application
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.exe
+C:\Users\Milad\Downloads\Soft 2.0\ewrapSoftware\obj\Debug\ewrapSoftware.pdb
